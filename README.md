@@ -25,10 +25,12 @@ We are going to practice creating and merging pull requests, including when ther
 
 ## List of Names
 
+
 - <Add Your Name>
 - Marcia
 - Ellis
 - Raquel
 - Ann
 - Tracy 
+- Bianca
 
